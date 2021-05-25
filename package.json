@@ -42,5 +42,12 @@
     "tslib": ">=1.9.0",
     "tslint": "~5.15.0",
     "typescript": ">=3.9.5"
-  }
+  },
+  "main": "bundles/rete-angular-render-plugin.umd.js",
+  "module": "fesm2015/rete-angular-render-plugin.js",
+  "es2015": "fesm2015/rete-angular-render-plugin.js",
+  "esm2015": "esm2015/rete-angular-render-plugin.js",
+  "fesm2015": "fesm2015/rete-angular-render-plugin.js",
+  "typings": "rete-angular-render-plugin.d.ts",
+  "metadata": "rete-angular-render-plugin.metadata.json"
 }
