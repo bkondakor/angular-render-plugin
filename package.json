@@ -42,11 +42,11 @@
     "tslint": "^6.1.3",
     "typescript": ">=3.9.5"
   },
-  "main": "bundles/rete-angular-render-plugin.umd.js",
-  "module": "fesm2015/rete-angular-render-plugin.js",
-  "es2015": "fesm2015/rete-angular-render-plugin.js",
-  "esm2015": "esm2015/rete-angular-render-plugin.js",
-  "fesm2015": "fesm2015/rete-angular-render-plugin.js",
-  "typings": "rete-angular-render-plugin.d.ts",
-  "metadata": "rete-angular-render-plugin.metadata.json"
+  "main": "dist/bundles/rete-angular-render-plugin.umd.js",
+  "module": "dist/fesm2015/rete-angular-render-plugin.js",
+  "es2015": "dist/fesm2015/rete-angular-render-plugin.js",
+  "esm2015": "dist/esm2015/rete-angular-render-plugin.js",
+  "fesm2015": "dist/fesm2015/rete-angular-render-plugin.js",
+  "typings": "dist/rete-angular-render-plugin.d.ts",
+  "metadata": "dist/rete-angular-render-plugin.metadata.json"
 }
